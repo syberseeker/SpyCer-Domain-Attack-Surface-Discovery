@@ -1,9 +1,9 @@
-# SpyCer-Domain-Attack-Surface-Discovery
+# SpyCer Domain Attack Surface Discovery
 Domain Attack Surface Discovery
 
 ## **1. Overview**
 
-The SpyCer DASD application is a web-based tool developed using the Flask framework to assess and visualize the attack surface of domains or IP addresses with basic attack surface classification. It enables users to gather intelligence such as subdomains, WHOIS data, Shodan insights, and reputation checks via Spamhaus, and classifies the overall risk level. The tool aims to aid in OSINT (Open Source Intelligence) operations.
+The SpyCer DASD is a web-based tool developed using the Flask framework to assess and visualize the attack surface of domains or IP addresses with basic attack surface classification. It enables users to gather intelligence such as subdomains, WHOIS data, Shodan insights, and reputation checks via Spamhaus, and classifies the overall risk level. The tool aims to aid in OSINT (Open Source Intelligence) operations.
 
 
 ## **2. Key Functionalities**

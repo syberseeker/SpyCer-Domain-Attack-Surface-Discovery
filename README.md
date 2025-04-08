@@ -36,7 +36,7 @@ The SpyCer DASD is a web-based tool developed using the Flask framework to asses
 
 ## **3. Attack Surface Classification Logic**
 
-The tool provides a basic risk classification:
+The tool provides a basic risk classification based on combination of NIST Attack Surface Guideline and OSSTMM metric:
 - **Subdomains**:
   - Low: < 3 subdomains
   - Medium: 3–5 subdomains
